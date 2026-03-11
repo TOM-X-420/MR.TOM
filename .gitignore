@@ -1,0 +1,25 @@
+# Android build artefacts
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+/build/
+/app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.aar
+*.ap_
+*.class
+*.dex
+*.jar
+
+# NDK / CMake
+.externalNativeBuild
+.cxx
+
+# Local configuration
+local.properties

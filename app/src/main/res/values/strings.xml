@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MR.TOM</string>
+    <string name="subtitle">ভয়েস অ্যাসিস্ট্যান্ট — সব সময় সক্রিয়</string>
+    <string name="status_running">✅ MR.TOM সক্রিয় — শুনছি…</string>
+    <string name="status_stopped">🔴 MR.TOM বন্ধ</string>
+    <string name="btn_start">শুরু করুন (Start)</string>
+    <string name="btn_stop">বন্ধ করুন (Stop)</string>
+    <string name="btn_battery_opt">ব্যাটারি অপ্টিমাইজেশন বন্ধ করুন</string>
+    <string name="notification_channel_name">MR.TOM Assistant</string>
+    <string name="notification_channel_desc">MR.TOM ভয়েস অ্যাসিস্ট্যান্ট সক্রিয় থাকার বিজ্ঞপ্তি</string>
+</resources>
